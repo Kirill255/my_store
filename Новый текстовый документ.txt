@@ -1,5 +1,4 @@
-print ("Hello world")
-print ("hello")
-print ("hello evrybody")
-
+print ("Hello world;")
+print ("hello;")
+print ("hello evrybody;")
 
