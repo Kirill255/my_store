@@ -1,2 +1,1 @@
-print ("ghbdtn vbh");
-print ("ghbdtn all");
+print ("ghbdtn vbh")
